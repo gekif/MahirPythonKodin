@@ -1,1 +1,2 @@
-Makan
+ini text append
+ini text append lagi
